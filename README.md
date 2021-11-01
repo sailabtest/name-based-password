@@ -49,9 +49,9 @@ Suite of Jest tests used to assist you with testing your input. Feel free to add
 
 To run these tests, first install the dependencies with 
 
-`yarn install`
+`npm install`
 
 Then trigger the suite with:
 
-`yarn test`
+`npm test`
   
